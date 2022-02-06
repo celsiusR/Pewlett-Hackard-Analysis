@@ -51,7 +51,7 @@ See the ERD relationship diagram generated for this Database.
 
 ​			Whilst PH does not have an adequate number of mentors, it could devise a systematic program of scheduling and subject matter to progressively mentor its employees eligible for a mentorship program, based on the type of mentoring.
 
-SQL Query to show the number of mentors avaialble given the criteria from the mentorship table:
+SQL Query to show the number of mentors available given the criteria from the mentorship table:
 <b>select * from mentorship_eligibility = 1549;</b>
 
 
