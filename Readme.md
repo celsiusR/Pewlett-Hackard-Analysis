@@ -6,7 +6,7 @@
 
 See the ERD relationship diagram generated for this Database.
 
-![PH-EmployeeDB](C:\Rutgers\module-challenges\module-7\Analysis Projects Folder\Pewlett-Hackard-Analysis Folder\Data\PH-EmployeeDB.PNG)
+![PH-EmployeeDB](Data\PH-EmployeeDB.PNG)
 
 ## <font color="brown">Results</font></font>
 
@@ -14,7 +14,7 @@ See the ERD relationship diagram generated for this Database.
 2. Since employees have progressed through different roles within the company, the most recent functional role (title) of the employee prime for retirement is derived and stored in the unique titles table. Otherwise the list of titles would nt be unique for the current employee designation status but also include previous ones held.
 3. The results from the retiring titles  produce a list the employees of retirement age and their most recent title held - 90,398 
 
-![image-20220206133506478](C:\Rutgers\module-challenges\module-7\Analysis Projects Folder\Pewlett-Hackard-Analysis Folder\Data\retiring-titles.png)
+![image-20220206133506478](Data\retiring-titles.png)
 
 
 
