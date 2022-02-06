@@ -8,7 +8,7 @@ See the ERD relationship diagram generated for this Database.
 
 ![PH-EmployeeDB](Data/PH-EmployeeDB.PNG)
 
-<h1><font color="brown">Results</font></font></h1>
+<h1><font color=#FFFF00>Results</font></font></h1>
 
 1. In the first stage or deliverable 1, employees and their retirement status and their titles are identified. Through this analysis, contained in the retirement_titles table, a list of employees eligible for retirement and their tenure in the role (title) is obtained.
 2. Since employees have progressed through different roles within the company, the most recent functional role (title) of the employee prime for retirement is derived and stored in the unique titles table. Otherwise the list of titles would nt be unique for the current employee designation status but also include previous ones held.
@@ -19,6 +19,7 @@ See the ERD relationship diagram generated for this Database.
 
 
 4. In deliverable 3, the analysis is performed to derive a list of employees eligible for mentorship. This list is contained in mentorship_eligibility table.
+
 ![Mentorship Table](Data/mentorship_table.PNG)
 
 <h1><font color="brown">Summary</font></font></h1>
