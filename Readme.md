@@ -20,7 +20,7 @@ See the ERD relationship diagram generated for this Database.
 
 4. In deliverable 3, the analysis is performed to derive a list of employees eligible for mentorship. This list is contained in mentorship_eligibility table.
 
-![Mentorship Table](data/mentorship_eligibility.png)
+![Mentorship Table](data/mentorship_table.png)
 
 <h1><font color="brown">Summary</font></font></h1>
 
