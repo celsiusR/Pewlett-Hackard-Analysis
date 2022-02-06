@@ -26,7 +26,8 @@ See the ERD relationship diagram generated for this Database.
 
 1. <font color="purple" size=4> *How many roles will need to be filled as the "silver tsunami" begins to make an impact?*</font>
 
-   90,398 employees will be retiring (<u>select count(*) from unique_titles</u>)
+   90,398 employees will be retiring 
+   SQL Query - <b><u>select count(*) from unique_titles</u> </b>
 
 ​			
 
@@ -49,6 +50,10 @@ See the ERD relationship diagram generated for this Database.
 ​			It is all dependent on the mentoring goals set aside by the company and its mentorship program. On a real-time everyday practice <b>1549 </b>employees available for mentoring seems low. But perhaps the mentoring program could be designed for groups of individuals or one mentor for many. Again, mentoring is of different types - (1) Culture, (2) Work and technology, (3) Management and progress, etc... 
 
 ​			Whilst PH does not have an adequate number of mentors, it could devise a systematic program of scheduling and subject matter to progressively mentor its employees eligible for a mentorship program, based on the type of mentoring.
+
+SQL Query to show the number of mentors avaialble given the criteria from the mentorship table:
+<b>select * from mentorship_eligibility;</b>
+
 
 
 
