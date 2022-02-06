@@ -27,7 +27,7 @@ See the ERD relationship diagram generated for this Database.
 1. <font color="purple" size=4> *How many roles will need to be filled as the "silver tsunami" begins to make an impact?*</font>
 
    90,398 employees will be retiring 
-   SQL Query - <b><u>select count(*) from unique_titles</u> </b>
+   SQL Query - <b><u>select count(*) from unique_titles = 90,398</u> </b>
 
 ​			
 
@@ -52,7 +52,7 @@ See the ERD relationship diagram generated for this Database.
 ​			Whilst PH does not have an adequate number of mentors, it could devise a systematic program of scheduling and subject matter to progressively mentor its employees eligible for a mentorship program, based on the type of mentoring.
 
 SQL Query to show the number of mentors avaialble given the criteria from the mentorship table:
-<b>select * from mentorship_eligibility;</b>
+<b>select * from mentorship_eligibility = 1549;</b>
 
 
 
