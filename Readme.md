@@ -14,13 +14,13 @@ See the ERD relationship diagram generated for this Database.
 2. Since employees have progressed through different roles within the company, the most recent functional role (title) of the employee prime for retirement is derived and stored in the unique titles table. Otherwise the list of titles would nt be unique for the current employee designation status but also include previous ones held.
 3. The results from the retiring titles  produce a list the employees of retirement age and their most recent title held - 90,398 
 
-![image-20220206133506478](Data/retiring-titles.png)
+![Retiring titles](Data/retiring-titles.png)
 
 
 
 4. In deliverable 3, the analysis is performed to derive a list of employees eligible for mentorship. This list is contained in mentorship_eligibility table.
 
-![image-20220206134242089](data/PH-EmployeeDB.png)
+![Mentorship Table](data/mentorship_eligibility.png)
 
 <h1><font color="brown">Summary</font></font></h1>
 
